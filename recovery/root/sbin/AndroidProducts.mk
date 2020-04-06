@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/archos/Alba10/
+LOCAL_PATH := device/archos/Alba10
 
 PRODUCT_MAKEFILES := $(LOCAL_PATH)/omni_Alba10.mk
